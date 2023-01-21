@@ -1,0 +1,63 @@
+HW_2 Postman
+
+
+http://162.55.220.72:5005/first
+1. Send the request.
+2. Check status code 200.
+3. Check, that response body have right string.
+
+http://162.55.220.72:5005/user_info_3
+1. Send the request.
+2. Check status code 200.
+3. Parse the response body in json.
+4. Verify that the response "name" matches the request "name" (input the name manually).
+5. Verify that the response "age" matches the request "age" (input the age manually).
+6. Verify that the response "salary" matches the request "salary" (input the salary manually).
+7. Parse request.
+8. Verify that the response "name" matches the request "name"(take the name from request).
+9. Verify that the response "age" matches the request "age"(take the age from request).
+10. Verify that the response "salary" matches the request "salary" (take the salary from request).
+11. Output in console parameter "family" from response.
+12. Verify that u_salary_1_5_year in response matches the "salary"*4 (take salary from request)
+
+http://162.55.220.72:5005/object_info_3
+1. Send the request.
+2. Check status code 200.
+3. Parse the response body in json.
+4. Parse request.
+5. Verify that the response "name" matches the request "name"(take the name from request).
+6. Verify that the response "age" matches the request "age"(take the age from request).
+7. Verify that the response "salary" matches the request "salary" (take the salary from request).
+8. Output in console parameter "family" from response.
+9. Check, that parameter "dog" has parameter "name".
+10. Check, that parameter "dog" has parameter "age".
+11. Check, that parameter "name" has value "Lucky".
+12. Check, that parameter "age" has value 4.
+
+http://162.55.220.72:5005/object_info_4
+1. Send the request.
+2. Check status code 200.
+3. Parse the response body in json
+4. Parse request.
+5. Verify that the response "name" matches the request "name"(take the name from request).
+6. Verify that the response "age" matches the request "age"(take the age from request).
+7. Output in console parameter "salary" from request. 
+8. Output in console parameter "salary" from response.
+9. Output in console the 0 element of the "salary" parameter's from response.
+10. Output in console the 1-th element of the "salary" parameter's from response.
+11. Output in console the 2-th element of the "salary" parameter's from response.
+12. Check, that 0 element of the "salary" parameter's matches the request "salary" (take the salary from request).
+13. Check, that 1-th element of the "salary" parameter's matches the request "salary"*2 (take the salary from request).
+14. Check, that 1-th element of the "salary" parameter's matches the request "salary"*3 (take the salary from request).
+15. Create in the environment the variable "name".
+16. Create in the environment the variable "age".
+17. Create in the environment the variable "salary".
+18. Pass to the environment the variable "name".
+19. Pass to the environment the variable "age".
+20. Pass to the environment the variable "salary".
+21. Write the array that outputs all elements of the "salary" parameter in the console in order  
+
+
+
+
+
