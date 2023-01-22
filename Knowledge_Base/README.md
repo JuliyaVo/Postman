@@ -35,21 +35,25 @@
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
          <a href="https://asmitharaj.medium.com/api-testing-approaches-e1e2f81fc73a">API Testing Approaches</a>
       </p> 
+        <p>
        <a target="_blank" href="https://www.youtube.com/watch?v=y_XFfTRn4s4">
          <img src="https://media.giphy.com/media/ajYmCaFQUqLryqAUl6/giphy.gif" title="How Do You Test an API Manually?  "alt="How Do You Test an API Manually?" width=250 heigh=250 align ="center">
      </a>  
         <a  target="_blank" href="https://www.youtube.com/watch?v=TbCKv8EWNuc">
          <img src="https://media.giphy.com/media/IZFdkYy8aujDhWWYNq/giphy.gif" title="How to Write Manual Test Cases for API Testing"alt="How to Write Manual Test Cases for API Testing " width=250 heigh=250 align="center">
      </a>      
-<a target="_blank" href="https://www.youtube.com/watch?v=M72eY5tHhCM&list=PLNcomllwLgxqui1wyGEfkdwvU3xv3Jj3c&index=8">
-         <img src="https://media.giphy.com/media/nMh8QSULaEKA3jhCHG/giphy.gif" title="Strategy of creating test scenarios for testing API " alt="Strategy of creating test scenarios for testing API" width=250 heigh=250 align="center" >
-</a>  
+        </p>
+        <p>
  <a target="_blank" href="https://www.youtube.com/watch?v=LUYFsouCGgo">
          <img src="https://media.giphy.com/media/mISCcIqlnfPcZAnycz/giphy.gif" title="How To Use DevTools As an API Tester?" alt="How To Use DevTools As an API Tester?" width=250 heigh=250 align="center">
 </a>  
         <a target="_blank" href="https://www.youtube.com/watch?v=y5FDGlty2eo">
          <img src="https://media.giphy.com/media/qrGkSFTAmNIJSvovi5/giphy.gif" title="Learning API Testing with ChatGPT" alt="Learning API Testing with ChatGPT" width=250 heigh=250 align="center">
-</a>        
+</a>  
+        </p>
+        <p><a target="_blank" href="https://www.youtube.com/watch?v=M72eY5tHhCM&list=PLNcomllwLgxqui1wyGEfkdwvU3xv3Jj3c&index=8">
+         <img src="https://media.giphy.com/media/nMh8QSULaEKA3jhCHG/giphy.gif" title="Strategy of creating test scenarios for testing API " alt="Strategy of creating test scenarios for testing API" width=250 heigh=250 align="center"></p>
+</a>  
         </div>
  	
  
