@@ -42,16 +42,16 @@ Documentation</a>
       </p>
      </ol>
     <a align="left" target="_blank" href="https://www.youtube.com/watch?v=ISjyXzkF-4w&t=9s">
-         <img src="https://media.giphy.com/media/lzIIKUQX2Ma1mupGl5/giphy.gif" title="API Testing using Postman" alt="" width=300 heigh=300>
+         <img src="https://media.giphy.com/media/lzIIKUQX2Ma1mupGl5/giphy.gif" title="API Testing using Postman" alt="" width=200 heigh=200>
      </a>
      <a align="center" target="_blank" href="https://www.youtube.com/watch?v=Qd-Tb3cJtao&list=PL9mn2EBC_SSzNGTMlT5NHUPJ5JG5JEkCu&index=7">
-         <img src="https://media.giphy.com/media/TlgJW94fGNqGrZ6fmD/giphy.gif" title="Postman practise" alt="Postman practise" width=300 heigh=300>
+         <img src="https://media.giphy.com/media/TlgJW94fGNqGrZ6fmD/giphy.gif" title="Postman practise" alt="Postman practise" width=200 heigh=200>
      </a>
        <a align="right" target="_blank" href="https://www.youtube.com/watch?v=VywxIQ2ZXw4">
-         <img src="https://media.giphy.com/media/sZ93RYC39iiVScGlbB/giphy.gif" title="Postman Beginner's Course - API Testing" alt="Postman Beginner's Course - API Testing" width=300 heigh=300>
+         <img src="https://media.giphy.com/media/sZ93RYC39iiVScGlbB/giphy.gif" title="Postman Beginner's Course - API Testing" alt="Postman Beginner's Course - API Testing" width=200 heigh=200>
      </a>
      <a align="right" target="_blank" href="https://www.youtube.com/watch?v=M1kwub3H0AI">
-         <img src="https://media.giphy.com/media/5WWrS3cClRYqwcZcrn/giphy.gif" title="Postman for testers - Test API of real project" alt="Postman for testers - Test API of real project" width=300 heigh=300>
+         <img src="https://media.giphy.com/media/5WWrS3cClRYqwcZcrn/giphy.gif" title="Postman for testers - Test API of real project" alt="Postman for testers - Test API of real project" width=200 heigh=200>
      </a> 
      </div>
      
