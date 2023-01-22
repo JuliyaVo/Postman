@@ -29,15 +29,17 @@ users can create and save simple and complex HTTP/s requests, as well as read th
       </p>
     <p>
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
-         <a href="https://telegra.ph/SHpargalka-po-Postman-09-01-2">Postman cheat sheet</a>
+         <a href="https://telegra.ph/SHpargalka-po-Postman-09-01-2">Postman cheat sheet (RU)</a>
       </p>
      <p>
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
-         <a href="">Postman cheat sheet</a>
+         <a href="https://postman-quick-reference-guide.readthedocs.io/en/latest/cheatsheet.html">Postman cheat sheet (EN)</a>
       </p>
-    
-    Блок видео
-    
+     <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://postman-quick-reference-guide.readthedocs.io/_/downloads/en/latest/pdf/">Postman Quick Reference Guide
+Documentation</a>
+      </p>
     <a align="left" target="_blank" href="https://www.youtube.com/watch?v=ISjyXzkF-4w&t=9s">
          <img src="https://media.giphy.com/media/lzIIKUQX2Ma1mupGl5/giphy.gif" title="API Testing using Postman" alt="" width=100 heigh=100>
      <a align="center" target="_blank" href="https://www.youtube.com/watch?v=Qd-Tb3cJtao&list=PL9mn2EBC_SSzNGTMlT5NHUPJ5JG5JEkCu&index=7">
@@ -45,6 +47,23 @@ users can create and save simple and complex HTTP/s requests, as well as read th
        <a align="right" target="_blank" href="https://www.youtube.com/watch?v=VywxIQ2ZXw4">
          <img src="" title="Postman practise" alt="Postman practise" width=100 heigh=100>
        
+     
+     
+   
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+    
+    Блок видео
+    
+    
        
            .  курс англоязыкчный
 
