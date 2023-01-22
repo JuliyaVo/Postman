@@ -54,11 +54,10 @@
         <p><a target="_blank" href="https://www.youtube.com/watch?v=M72eY5tHhCM&list=PLNcomllwLgxqui1wyGEfkdwvU3xv3Jj3c&index=8">
          <img src="https://media.giphy.com/media/nMh8QSULaEKA3jhCHG/giphy.gif" title="Strategy of creating test scenarios for testing API " alt="Strategy of creating test scenarios for testing API" width=250 heigh=250 align="center"></p>
 </a>  
+   <a target="_blank" href="https://www.youtube.com/watch?v=i9vYagO3JrY">
+         <img src="https://media.giphy.com/media/3mNSzGGP5Wcz6OMued/giphy.gif" title="API Testing" alt="API Testing" width=250 heigh=250 align="center"></p>
+</a>  
         </div>
- 	
- 
- 
-
 <div align="left">
    <h2>Postman</h2>
 </div>
@@ -102,43 +101,79 @@ Documentation</a>
          <a href="https://testengineer.ru/gajd-po-testirovaniyu-v-postman/">API Testing with Postman Guide</a>
       </p>
      </ol>
-    <a align="left" target="_blank" href="https://www.youtube.com/watch?v=ISjyXzkF-4w&t=9s">
-         <img src="https://media.giphy.com/media/lzIIKUQX2Ma1mupGl5/giphy.gif" title="API Testing using Postman" alt="" width=250 heigh=250>
+     <div align="center"
+    <a target="_blank" href="https://www.youtube.com/watch?v=ISjyXzkF-4w&t=9s">
+         <img src="https://media.giphy.com/media/lzIIKUQX2Ma1mupGl5/giphy.gif" title="API Testing using Postman" alt="" width=300 heigh=300>
      </a>
-     <a align="center" target="_blank" href="https://www.youtube.com/watch?v=Qd-Tb3cJtao&list=PL9mn2EBC_SSzNGTMlT5NHUPJ5JG5JEkCu&index=7">
-         <img src="https://media.giphy.com/media/TlgJW94fGNqGrZ6fmD/giphy.gif" title="Postman practise" alt="Postman practise" width=250 heigh=250>
+     <a target="_blank" href="https://www.youtube.com/watch?v=Qd-Tb3cJtao&list=PL9mn2EBC_SSzNGTMlT5NHUPJ5JG5JEkCu&index=7">
+         <img src="https://media.giphy.com/media/TlgJW94fGNqGrZ6fmD/giphy.gif" title="Postman practise" alt="Postman practise" width=300 heigh=300>
      </a>
-       <a align="right" target="_blank" href="https://www.youtube.com/watch?v=VywxIQ2ZXw4">
-         <img src="https://media.giphy.com/media/sZ93RYC39iiVScGlbB/giphy.gif" title="Postman Beginner's Course - API Testing" alt="Postman Beginner's Course - API Testing" width=250 heigh=250>
+       <a target="_blank" href="https://www.youtube.com/watch?v=VywxIQ2ZXw4">
+         <img src="https://media.giphy.com/media/sZ93RYC39iiVScGlbB/giphy.gif" title="Postman Beginner's Course - API Testing" alt="Postman Beginner's Course - API Testing" width=300 heigh=300>
      </a>
-     <a align="right" target="_blank" href="https://www.youtube.com/watch?v=M1kwub3H0AI">
-         <img src="https://media.giphy.com/media/5WWrS3cClRYqwcZcrn/giphy.gif" title="Postman for testers - Test API of real project" alt="Postman for testers - Test API of real project" width=250 heigh=250>
+     <a target="_blank" href="https://www.youtube.com/watch?v=M1kwub3H0AI">
+         <img src="https://media.giphy.com/media/5WWrS3cClRYqwcZcrn/giphy.gif" title="Postman for testers - Test API of real project" alt="Postman for testers - Test API of real project" width=300 heigh=300>
      </a> 
-     <a align="right" target="_blank" href="https://www.youtube.com/watch?v=8BfshV5n6ac">
-         <img src="" title="JSON Schema Validation in Postman " alt="JSON Schema Validation in Postman " width=250 heigh=250>
+     <a target="_blank" href="https://www.youtube.com/watch?v=8BfshV5n6ac">
+         <img src="" title="JSON Schema Validation in Postman " alt="JSON Schema Validation in Postman " width=300 heigh=300>
      </a> 
-     <a align="right" target="_blank" href="https://www.youtube.com/watch?v=0WPmRyqERgY">
-         <img src="" title="Тестирование и документирование API-методов с помощью Postman" alt="Тестирование и документирование API-методов с помощью Postman" width=250 heigh=250>
+     <a target="_blank" href="https://www.youtube.com/watch?v=0WPmRyqERgY">
+         <img src="https://media.giphy.com/media/0gUQ5Zvicaf3Y3M5Sc/giphy.gif" title="Testing and document API-methods with Postman" alt="Testing and document API-methods with Postman" width=300 heigh=300>
      </a> 
-     
-     	
-    
+     </div>
+     <div align="left">
+   <h2>Swagger</h2>
+ </div>
+   <div align="left">
+    <ol>
+    <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://www.javatpoint.com/swagger">Swagger Tutoiual</a>
+      </p>
+        <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://www.javatpoint.com/swagger">Swagger Tutoiual</a>
+      </p>
+        <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://swagger.io/docs/specification/about/">OpenAPI Guide</a>
+      </p>
+       <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://www.youtube.com/watch?v=41jrely96ds">Prictise with Swagger Petstore, Get & Post Methods</a>
+      </p>
+   </ol>
+   </div>
+   <div align="left">
+   <h2>SOAP API</h2>
+ </div>
+   <div align="left">
+       <ol>
+   <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://blog.hubspot.com/website/rest-vs-soap">SOAP vs REST APIs: The Key Differences Explained for Beginners</a>
+      </p>    
+        <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://telegra.ph/SOAP-API-05-08">SOAP API</a>
+      </p>   
+          <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://qagroup.com.ua/publications/populiarni-pytannia-na-spivbesidakh-soap-web-api-testing-interview/">Популярні питання на співбесідах SOAP WEB API TESTING interview</a>
+      </p> 
+   </ol>
+   </div>
+       
+       
         
    
      
      
      
      
-     
-     <div align="left">
-   <h2>Swagger</h2>
- </div>   
-        https://petstore.swagger.io/#/pet/ свагер
-     
+ 
 
-  <div align="left">
-   <h2>SOAP API</h2>
- </div>   
+   
         
      
      
