@@ -1,6 +1,59 @@
 <div align="left">
    <h1>API TESTING</h1>
  </div>
+  </div>
+   <div align="left">
+   <h2>API | API Testing</h2>
+</div>
+<div>
+   <p>𝐖𝐡𝐚𝐭 𝐢𝐬 𝐚𝐧 𝐀𝐏𝐈?</p>
+<p>APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, the weather bureau’s software system contains daily weather data. The weather app on your phone “talks” to this system via APIs and shows you daily weather updates on your phone.</p>
+   <p>𝐖𝐡𝐚𝐭 𝐝𝐨𝐞𝐬 𝐀𝐏𝐈 𝐬𝐭𝐚𝐧𝐝 𝐟𝐨𝐫?</p>
+<p>API stands for Application Programming Interface. In the context of APIs, the word Application refers to any software with a distinct function. Interface can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses. Their API documentation contains information on how developers are to structure those requests and responses.</p>
+     <ol>
+    <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://aws.amazon.com/what-is/api/">What is an Api?</a>
+      </p>
+        <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://www.guru99.com/api-testing.html">Api Testing Tutorial</a>
+      </p> 
+        <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://habr.com/ru/post/568360/">REST API testing strategy: what exactly do you need to test? (RU)</a>
+      </p> 
+         <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://habr.com/ru/amp/post/670730/">Best practices of API testing/a>
+      </p> 
+        <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://www.andreyolegovich.ru/qa/api_testing.php.">API testing base theory(RU)</a>
+      </p>
+         <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://asmitharaj.medium.com/api-testing-approaches-e1e2f81fc73a">API Testing Approaches</a>
+      </p> 
+       <a align="left" target="_blank" href="https://www.youtube.com/watch?v=y_XFfTRn4s4">
+         <img src="https://media.giphy.com/media/ajYmCaFQUqLryqAUl6/giphy.gif" title="How Do You Test an API Manually?  "alt="How Do You Test an API Manually?" width=250 heigh=250>
+     </a>  
+        <a align="center" target="_blank" href="https://www.youtube.com/watch?v=TbCKv8EWNuc">
+         <img src="https://media.giphy.com/media/IZFdkYy8aujDhWWYNq/giphy.gif" title="How to Write Manual Test Cases for API Testing"alt="How to Write Manual Test Cases for API Testing " width=250 heigh=250>
+     </a>      
+<a align="center" target="_blank" href="https://www.youtube.com/watch?v=M72eY5tHhCM&list=PLNcomllwLgxqui1wyGEfkdwvU3xv3Jj3c&index=8">
+         <img src="https://media.giphy.com/media/nMh8QSULaEKA3jhCHG/giphy.gif" title="Strategy of creating test scenarios for testing API " alt="Strategy of creating test scenarios for testing API" width=250 heigh=250>
+</a>  
+ <a align="right" target="_blank" href="https://www.youtube.com/watch?v=LUYFsouCGgo">
+         <img src="https://media.giphy.com/media/mISCcIqlnfPcZAnycz/giphy.gif" title="How To Use DevTools As an API Tester?" alt="How To Use DevTools As an API Tester?" width=250 heigh=250>
+</a>  
+        <a align="right" target="_blank" href="https://www.youtube.com/watch?v=y5FDGlty2eo">
+         <img src="https://media.giphy.com/media/qrGkSFTAmNIJSvovi5/giphy.gif" title="Learning API Testing with ChatGPT" alt="Learning API Testing with ChatGPT" width=250 heigh=250>
+</a>        
+        </div>
+ 	
+ 
+ 
 
 <div align="left">
    <h2>Postman</h2>
@@ -40,22 +93,63 @@ users can create and save simple and complex HTTP/s requests, as well as read th
          <a href="https://postman-quick-reference-guide.readthedocs.io/_/downloads/en/latest/pdf/">Postman Quick Reference Guide
 Documentation</a>
       </p>
+     <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://testengineer.ru/gajd-po-testirovaniyu-v-postman/">API Testing with Postman Guide</a>
+      </p>
      </ol>
     <a align="left" target="_blank" href="https://www.youtube.com/watch?v=ISjyXzkF-4w&t=9s">
-         <img src="https://media.giphy.com/media/lzIIKUQX2Ma1mupGl5/giphy.gif" title="API Testing using Postman" alt="" width=200 heigh=200>
+         <img src="https://media.giphy.com/media/lzIIKUQX2Ma1mupGl5/giphy.gif" title="API Testing using Postman" alt="" width=250 heigh=250>
      </a>
      <a align="center" target="_blank" href="https://www.youtube.com/watch?v=Qd-Tb3cJtao&list=PL9mn2EBC_SSzNGTMlT5NHUPJ5JG5JEkCu&index=7">
-         <img src="https://media.giphy.com/media/TlgJW94fGNqGrZ6fmD/giphy.gif" title="Postman practise" alt="Postman practise" width=200 heigh=200>
+         <img src="https://media.giphy.com/media/TlgJW94fGNqGrZ6fmD/giphy.gif" title="Postman practise" alt="Postman practise" width=250 heigh=250>
      </a>
        <a align="right" target="_blank" href="https://www.youtube.com/watch?v=VywxIQ2ZXw4">
-         <img src="https://media.giphy.com/media/sZ93RYC39iiVScGlbB/giphy.gif" title="Postman Beginner's Course - API Testing" alt="Postman Beginner's Course - API Testing" width=200 heigh=200>
+         <img src="https://media.giphy.com/media/sZ93RYC39iiVScGlbB/giphy.gif" title="Postman Beginner's Course - API Testing" alt="Postman Beginner's Course - API Testing" width=250 heigh=250>
      </a>
      <a align="right" target="_blank" href="https://www.youtube.com/watch?v=M1kwub3H0AI">
-         <img src="https://media.giphy.com/media/5WWrS3cClRYqwcZcrn/giphy.gif" title="Postman for testers - Test API of real project" alt="Postman for testers - Test API of real project" width=200 heigh=200>
+         <img src="https://media.giphy.com/media/5WWrS3cClRYqwcZcrn/giphy.gif" title="Postman for testers - Test API of real project" alt="Postman for testers - Test API of real project" width=250 heigh=250>
      </a> 
-     </div>
+     <a align="right" target="_blank" href="https://www.youtube.com/watch?v=8BfshV5n6ac">
+         <img src="" title="JSON Schema Validation in Postman " alt="JSON Schema Validation in Postman " width=250 heigh=250>
+     </a> 
+     <a align="right" target="_blank" href="https://www.youtube.com/watch?v=0WPmRyqERgY">
+         <img src="" title="Тестирование и документирование API-методов с помощью Postman" alt="Тестирование и документирование API-методов с помощью Postman" width=250 heigh=250>
+     </a> 
      
-       
+     	
+    
+        
+   
+     
+     
+     
+     
+     
+     <div align="left">
+   <h2>Swagger</h2>
+ </div>   
+        https://petstore.swagger.io/#/pet/ свагер
+     
+
+  <div align="left">
+   <h2>SOAP API</h2>
+ </div>   
+        
+     
+     
+     
+     
+     
+        
+        
+        
+        
+    
+        
+        
+   
+   
      
      
    
@@ -70,33 +164,19 @@ Documentation</a>
      
      
     
-    Блок видео
-    
-    
-       
-           .  курс англоязыкчный
-
     
     
     
     
     
-   </ol>
- </div>
- <div align="left">
-   <h2>Linux CL</h2>
-   <ol>
+   
      
      
-     https://www.guru99.com/api-testing.html апи тестинг на гуру
-     REST API testing strategy: what exactly do you need to test?   на русском статья
-     https://www.andreyolegovich.ru/qa/api_testing.php.  базовая теория на русском 
-     https://aws.amazon.com/ru/what-is/api/. про апи супер статья на русс
-     https://asmitharaj.medium.com/api-testing-approaches-e1e2f81fc73a подходы к тестированию апи
      
-     https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/ постман ньюман
-     https://testengineer.ru/gajd-po-testirovaniyu-v-postman/ большой гайд по тестированию на ру
      
-     https://www.youtube.com/watch?v=8BfshV5n6ac	JSON Schema Validation in Postman 
-     https://petstore.swagger.io/#/pet/ свагер
-     https://www.youtube.com/watch?v=y_XFfTRn4s4 туториал апи тестинг 
+     
+     
+     
+     
+     
+     
