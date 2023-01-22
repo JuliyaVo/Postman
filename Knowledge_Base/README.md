@@ -41,11 +41,13 @@ users can create and save simple and complex HTTP/s requests, as well as read th
 Documentation</a>
       </p>
     <a align="left" target="_blank" href="https://www.youtube.com/watch?v=ISjyXzkF-4w&t=9s">
-         <img src="https://media.giphy.com/media/lzIIKUQX2Ma1mupGl5/giphy.gif" title="API Testing using Postman" alt="" width=100 heigh=100>
+         <img src="https://media.giphy.com/media/lzIIKUQX2Ma1mupGl5/giphy.gif" title="API Testing using Postman" alt="" width=200 heigh=200>
+     </a>
      <a align="center" target="_blank" href="https://www.youtube.com/watch?v=Qd-Tb3cJtao&list=PL9mn2EBC_SSzNGTMlT5NHUPJ5JG5JEkCu&index=7">
-         <img src="https://media.giphy.com/media/TlgJW94fGNqGrZ6fmD/giphy.gif" title="Postman practise" alt="Postman practise" width=100 heigh=100>
+         <img src="https://media.giphy.com/media/TlgJW94fGNqGrZ6fmD/giphy.gif" title="Postman practise" alt="Postman practise" width=200 heigh=200>
+     </a>
        <a align="right" target="_blank" href="https://www.youtube.com/watch?v=VywxIQ2ZXw4">
-         <img src="" title="Postman practise" alt="Postman practise" width=100 heigh=100>
+         <img src="https://media.giphy.com/media/sZ93RYC39iiVScGlbB/giphy.gif" title="API testing with Postman" alt="API testing with Postman" width=200 heigh=200>
        
      
      
