@@ -54,9 +54,6 @@
               <a target="_blank" href="https://www.youtube.com/watch?v=M72eY5tHhCM&list=PLNcomllwLgxqui1wyGEfkdwvU3xv3Jj3c&index=8">
          <img src="https://media.giphy.com/media/nMh8QSULaEKA3jhCHG/giphy.gif" title="Strategy of creating test scenarios for testing API " alt="Strategy of creating test scenarios for testing API" width=250 heigh=250>
 </a>  
-              <a target="_blank" href="https://www.youtube.com/playlist?list=PLrM2ELpRbbu7JsiXRHktkL_qqSC_aevSV">
-         <img src="https://media.giphy.com/media/o2CyQmUd1UjKAlkicb/giphy.gif" title="Rest API Testing Playlist" alt="Rest API Testing Playlist" width=250 heigh=250>
-</a>  
    <a target="_blank" href="https://www.youtube.com/watch?v=i9vYagO3JrY">
          <img src="https://media.giphy.com/media/3mNSzGGP5Wcz6OMued/giphy.gif" title="API Testing" alt="API Testing" width=250 heigh=250>
            </a>
@@ -124,9 +121,6 @@ Documentation</a>
      <a target="_blank" href="https://www.youtube.com/watch?v=0WPmRyqERgY">
          <img src="https://media.giphy.com/media/0gUQ5Zvicaf3Y3M5Sc/giphy.gif" title="Testing and document API-methods with Postman" alt="Testing and document API-methods with Postman" width=300 heigh=300>
      </a> 
-   <a target="_blank" href="https://www.youtube.com/watch?v=0WPmRyqERgY">
-         <img src="https://media.giphy.com/media/0gUQ5Zvicaf3Y3M5Sc/giphy.gif" title="REST API Testing" alt="Testing and document API-methods with Postman" width=300 heigh=300>
-     </a>
      </div>
      <div align="left">
    <h2>Swagger</h2>
@@ -185,9 +179,6 @@ Documentation</a>
    <a target="_blank" href="https://github.com/public-apis/public-apis">
          <img src="https://media.giphy.com/media/CwJBDoy7TeqbyajxJc/giphy.gif" alt="List of Public APIs" width=300 heigh=300>
    </a>
-   <a target="_blank" href="https://github.com/public-apis/public-apis">
-         <img src="https://media.giphy.com/media/CwJBDoy7TeqbyajxJc/giphy.gif" alt="List of Public APIs" width=300 heigh=300>
-   </a>
      <a target="_blank" href="https://reqres.in/">
          <img src="https://media.giphy.com/media/uNbRmkOSWVZlbjGkJn/giphy.gif" alt="Open API" width=300 heigh=300>
    </a>  
@@ -195,6 +186,11 @@ Documentation</a>
          <img src="https://media.giphy.com/media/isV3vhU6Fm9dVnDkWO/giphy.gif" alt="Open API" width=300 heigh=300>
    </a>  
    </div>
+    <div align="left">  
+         <a target="_blank" href="https://www.youtube.com/playlist?list=PLrM2ELpRbbu7JsiXRHktkL_qqSC_aevSV">
+         <img src="https://media.giphy.com/media/o2CyQmUd1UjKAlkicb/giphy.gif" title="Rest API Testing Playlist" alt="Rest API Testing Playlist" width=250 heigh=350>
+</a>  
+        </div>
    
    
         
