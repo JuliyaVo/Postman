@@ -35,7 +35,7 @@
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
          <a href="https://asmitharaj.medium.com/api-testing-approaches-e1e2f81fc73a">API Testing Approaches</a>
       </p> 
-        <div align="center">
+        <div align="left">
         <p>
        <a target="_blank" href="https://www.youtube.com/watch?v=y_XFfTRn4s4">
          <img src="https://media.giphy.com/media/ajYmCaFQUqLryqAUl6/giphy.gif" title="How Do You Test an API Manually?  "alt="How Do You Test an API Manually?" width=250 heigh=250>
@@ -45,6 +45,9 @@
      </a>      
  <a target="_blank" href="https://www.youtube.com/watch?v=LUYFsouCGgo">
          <img src="https://media.giphy.com/media/mISCcIqlnfPcZAnycz/giphy.gif" title="How To Use DevTools As an API Tester?" alt="How To Use DevTools As an API Tester?" width=250 heigh=250>
+</a>  
+          <a target="_blank" href="https://www.youtube.com/playlist?list=PLrM2ELpRbbu7JsiXRHktkL_qqSC_aevSV">
+         <img src="https://media.giphy.com/media/o2CyQmUd1UjKAlkicb/giphy.gif" title="Rest API Testing Playlist" alt="Rest API Testing Playlist" width=250 heigh=250>
 </a>  
       </p>
        <p>
@@ -57,10 +60,7 @@
    <a target="_blank" href="https://www.youtube.com/watch?v=i9vYagO3JrY">
          <img src="https://media.giphy.com/media/3mNSzGGP5Wcz6OMued/giphy.gif" title="API Testing" alt="API Testing" width=250 heigh=250>
            </a>
-        </p>
-   <p><a target="_blank" href="https://www.youtube.com/playlist?list=PLrM2ELpRbbu7JsiXRHktkL_qqSC_aevSV">
-         <img src="https://media.giphy.com/media/o2CyQmUd1UjKAlkicb/giphy.gif" title="Rest API Testing Playlist" alt="Rest API Testing Playlist" width=250 heigh=250></p>
-</a>  
+           </p>
 </div>
 <div align="left">
    <h2>Postman</h2>
