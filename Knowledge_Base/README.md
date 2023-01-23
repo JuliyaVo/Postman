@@ -172,10 +172,29 @@ Documentation</a>
       </p> 
    </ol>
    </div>
-       
-    
-        
    
+   <div align="left>
+   <h2>Prictise API Testing</h2>
+   </div>
+   <div>
+   <a target="_blank" href="https://github.com/public-apis/public-apis">
+         <img src="https://media.giphy.com/media/CwJBDoy7TeqbyajxJc/giphy.gif" alt="List of Public APIs" width=300 heigh=300>
+   </a>
+   <a target="_blank" href="https://github.com/public-apis/public-apis">
+         <img src="https://media.giphy.com/media/CwJBDoy7TeqbyajxJc/giphy.gif" alt="List of Public APIs" width=300 heigh=300>
+   </a>
+     <a target="_blank" href="https://reqres.in/">
+         <img src="https://media.giphy.com/media/uNbRmkOSWVZlbjGkJn/giphy.gif" alt="Open API" width=300 heigh=300>
+   </a>  
+    <a target="_blank" href="http://users.bugred.ru/">
+         <img src="https://media.giphy.com/media/isV3vhU6Fm9dVnDkWO/giphy.gif" alt="Open API" width=300 heigh=300>
+   </a>  
+   </div>
+   
+   
+        
+     
+
      
      
      
