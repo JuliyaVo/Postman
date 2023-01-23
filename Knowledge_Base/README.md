@@ -38,28 +38,28 @@
         <div align="center">
         <p>
        <a target="_blank" href="https://www.youtube.com/watch?v=y_XFfTRn4s4">
-         <img src="https://media.giphy.com/media/ajYmCaFQUqLryqAUl6/giphy.gif" title="How Do You Test an API Manually?  "alt="How Do You Test an API Manually?" width=300 heigh=300>
+         <img src="https://media.giphy.com/media/ajYmCaFQUqLryqAUl6/giphy.gif" title="How Do You Test an API Manually?  "alt="How Do You Test an API Manually?" width=250 heigh=250>
      </a>  
         <a  target="_blank" href="https://www.youtube.com/watch?v=TbCKv8EWNuc">
-         <img src="https://media.giphy.com/media/IZFdkYy8aujDhWWYNq/giphy.gif" title="How to Write Manual Test Cases for API Testing"alt="How to Write Manual Test Cases for API Testing " width=300 heigh=300>
+         <img src="https://media.giphy.com/media/IZFdkYy8aujDhWWYNq/giphy.gif" title="How to Write Manual Test Cases for API Testing"alt="How to Write Manual Test Cases for API Testing " width=250 heigh=250>
      </a>      
-        </p>
-        <p>
  <a target="_blank" href="https://www.youtube.com/watch?v=LUYFsouCGgo">
-         <img src="https://media.giphy.com/media/mISCcIqlnfPcZAnycz/giphy.gif" title="How To Use DevTools As an API Tester?" alt="How To Use DevTools As an API Tester?" width=300 heigh=300>
+         <img src="https://media.giphy.com/media/mISCcIqlnfPcZAnycz/giphy.gif" title="How To Use DevTools As an API Tester?" alt="How To Use DevTools As an API Tester?" width=250 heigh=250>
 </a>  
-        <a target="_blank" href="https://www.youtube.com/watch?v=y5FDGlty2eo">
-         <img src="https://media.giphy.com/media/qrGkSFTAmNIJSvovi5/giphy.gif" title="Learning API Testing with ChatGPT" alt="Learning API Testing with ChatGPT" width=300 heigh=300>
+      </p>
+       <p>
+           <a target="_blank" href="https://www.youtube.com/watch?v=y5FDGlty2eo">
+         <img src="https://media.giphy.com/media/qrGkSFTAmNIJSvovi5/giphy.gif" title="Learning API Testing with ChatGPT" alt="Learning API Testing with ChatGPT" width=250 heigh=250>
 </a>  
-        </p>
-        <p><a target="_blank" href="https://www.youtube.com/watch?v=M72eY5tHhCM&list=PLNcomllwLgxqui1wyGEfkdwvU3xv3Jj3c&index=8">
-         <img src="https://media.giphy.com/media/nMh8QSULaEKA3jhCHG/giphy.gif" title="Strategy of creating test scenarios for testing API " alt="Strategy of creating test scenarios for testing API" width=300 heigh=300>
+      <a target="_blank" href="https://www.youtube.com/watch?v=M72eY5tHhCM&list=PLNcomllwLgxqui1wyGEfkdwvU3xv3Jj3c&index=8">
+         <img src="https://media.giphy.com/media/nMh8QSULaEKA3jhCHG/giphy.gif" title="Strategy of creating test scenarios for testing API " alt="Strategy of creating test scenarios for testing API" width=250 heigh=250>
 </a>  
    <a target="_blank" href="https://www.youtube.com/watch?v=i9vYagO3JrY">
-         <img src="https://media.giphy.com/media/3mNSzGGP5Wcz6OMued/giphy.gif" title="API Testing" alt="API Testing" width=300 heigh=300></p>
-           </a></p>
+         <img src="https://media.giphy.com/media/3mNSzGGP5Wcz6OMued/giphy.gif" title="API Testing" alt="API Testing" width=250 heigh=250>
+           </a>
+        </p>
    <p><a target="_blank" href="https://www.youtube.com/playlist?list=PLrM2ELpRbbu7JsiXRHktkL_qqSC_aevSV">
-         <img src="https://media.giphy.com/media/o2CyQmUd1UjKAlkicb/giphy.gif" title="Rest API Testing Playlist" alt="Rest API Testing Playlist" width=300 heigh=300></p>
+         <img src="https://media.giphy.com/media/o2CyQmUd1UjKAlkicb/giphy.gif" title="Rest API Testing Playlist" alt="Rest API Testing Playlist" width=250 heigh=250></p>
 </a>  
 </div>
 <div align="left">
