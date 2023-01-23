@@ -53,12 +53,12 @@
 </a>  
         </p>
         <p><a target="_blank" href="https://www.youtube.com/watch?v=M72eY5tHhCM&list=PLNcomllwLgxqui1wyGEfkdwvU3xv3Jj3c&index=8">
-         <img src="https://media.giphy.com/media/nMh8QSULaEKA3jhCHG/giphy.gif" title="Strategy of creating test scenarios for testing API " alt="Strategy of creating test scenarios for testing API" width=300 heigh=300></p>
+         <img src="https://media.giphy.com/media/nMh8QSULaEKA3jhCHG/giphy.gif" title="Strategy of creating test scenarios for testing API " alt="Strategy of creating test scenarios for testing API" width=300 heigh=300>
 </a>  
    <a target="_blank" href="https://www.youtube.com/watch?v=i9vYagO3JrY">
          <img src="https://media.giphy.com/media/3mNSzGGP5Wcz6OMued/giphy.gif" title="API Testing" alt="API Testing" width=300 heigh=300></p>
-</a>   
-   <a target="_blank" href="https://www.youtube.com/playlist?list=PLrM2ELpRbbu7JsiXRHktkL_qqSC_aevSV">
+           </a></p>
+   <p><a target="_blank" href="https://www.youtube.com/playlist?list=PLrM2ELpRbbu7JsiXRHktkL_qqSC_aevSV">
          <img src="https://media.giphy.com/media/o2CyQmUd1UjKAlkicb/giphy.gif" title="Rest API Testing Playlist" alt="Rest API Testing Playlist" width=300 heigh=300></p>
 </a>  
 </div>
