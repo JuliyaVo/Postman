@@ -166,6 +166,10 @@ Documentation</a>
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
          <a href="https://qagroup.com.ua/publications/populiarni-pytannia-na-spivbesidakh-soap-web-api-testing-interview/">Популярні питання на співбесідах SOAP WEB API TESTING interview</a>
       </p> 
+       <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://www.guru99.com/webservice-testing-beginner-guide.html">Web Services Testing Tutorial: How to Test? Learn with Example</a>
+      </p> 
    </ol>
    </div>
        
