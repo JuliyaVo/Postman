@@ -158,6 +158,10 @@ Documentation</a>
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
          <a href="https://telegra.ph/SOAP-API-05-08">SOAP API</a>
       </p>   
+       <p>
+         <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
+         <a href="https://www.geeksforgeeks.org/difference-between-rest-api-and-soap-api/">Difference between REST API and SOAP AP</a>
+      </p> 
           <p>
          <img src="https://cdn-icons-png.flaticon.com/128/556/556690.png" width=10 heigh=10>
          <a href="https://qagroup.com.ua/publications/populiarni-pytannia-na-spivbesidakh-soap-web-api-testing-interview/">Популярні питання на співбесідах SOAP WEB API TESTING interview</a>
@@ -165,7 +169,7 @@ Documentation</a>
    </ol>
    </div>
        
-       
+    
         
    
      
