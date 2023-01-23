@@ -187,7 +187,7 @@ Documentation</a>
    </a>  
    </div>
     <div align="left"> 
-       <h2>EvilTester - Software Testing</h2>
+       <h2>EvilTester - Software Testing (YouTube channal)</h2>
          <a target="_blank" href="https://www.youtube.com/playlist?list=PLrM2ELpRbbu7JsiXRHktkL_qqSC_aevSV">
          <img src="https://media.giphy.com/media/o2CyQmUd1UjKAlkicb/giphy.gif" title="Rest API Testing Playlist" alt="Rest API Testing Playlist" width=250 heigh=350>
 </a>  
